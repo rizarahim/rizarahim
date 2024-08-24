@@ -1,13 +1,13 @@
 # Get to Know Me
 
 ### 👩🏻‍🎓 Introduction
-- I'm a Pre-Final Year Computer Science Engineering Student 
+&nbsp;&nbsp;&nbsp;&nbsp;I'm a Pre-Final Year Computer Science Engineering Student 
   
 
 ### 🚀 Skills & Tools
-- **Languages:** Python, C++
-- **Frameworks/Libraries:** Flutter, React, Node.js, Express.js
-- **Tools:** Git, MongoDB, Firebase
+&nbsp;&nbsp;&nbsp;&nbsp;**Languages:** Python, C++ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Frameworks/Libraries:** Flutter, React, Node.js, Express.js <br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Tools:** Git, MongoDB, Firebase <br>
 
 <!--
 ### 🌟 Featured Projects
@@ -15,8 +15,8 @@
 - [Project Name](Link) – Brief description of what it does and technologies used.
 -->
 
-- ### 📫 How to Reach Me
-- [LinkedIn](linkedin.com/in/rizarahim/)
-- [Email](mailto:rizarahim2003@gmail.com)
+### 📫 How to Reach Me
+&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](linkedin.com/in/rizarahim/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; [Email](mailto:rizarahim2003@gmail.com) <br>
 
 
