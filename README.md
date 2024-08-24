@@ -1,16 +1,22 @@
-## Hi there 👋
+# Get to Know Me
+
+### 👩🏻‍🎓 Introduction
+- I'm a Pre-Final Year Computer Science Engineering Student 
+  
+
+### 🚀 Skills & Tools
+- **Languages:** Python, C++
+- **Frameworks/Libraries:** Flutter, React, Node.js, Express.js
+- **Tools:** Git, MongoDB, Firebase
 
 <!--
-**rizarahim/rizarahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌟 Featured Projects
+- [Project Name](Link) – Brief description of what it does and technologies used.
+- [Project Name](Link) – Brief description of what it does and technologies used.
 -->
+
+- ### 📫 How to Reach Me
+- [LinkedIn](linkedin.com/in/rizarahim/)
+- [Email](mailto:rizarahim2003@gmail.com)
+
+
