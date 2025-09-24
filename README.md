@@ -1,7 +1,7 @@
 # Get to Know Me
 
 ### 👩🏻‍🎓 Introduction
-&nbsp;&nbsp;&nbsp;&nbsp;I'm a Pre-Final Year Computer Science Engineering Student 
+&nbsp;&nbsp;&nbsp;&nbsp;I'm a Computer Science Engineer
   
 
 ### 🚀 Skills & Tools
