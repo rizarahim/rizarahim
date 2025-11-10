@@ -4,6 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;i'm a computer science engineer. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;and these are the things i've made instead of sleeping. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;there's alot you just can't see them. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;plus the commit(ment) issues. </br>
 
 
 ### 📫 how to contact me ?
