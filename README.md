@@ -1,22 +1,13 @@
-# Get to Know Me
+# get to know me section
 
-### 👩🏻‍🎓 Introduction
-&nbsp;&nbsp;&nbsp;&nbsp;I'm a Computer Science Engineer
-  
+### 👩🏻‍🎓 intro (cuz apparently i'm supposed to have one)
+&nbsp;&nbsp;&nbsp;&nbsp;i'm a computer science engineer. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;and these are the things i've made instead of sleeping. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;there's alot you just can't see them. </br>
 
-### 🚀 Skills & Tools
-&nbsp;&nbsp;&nbsp;&nbsp;**Languages:** Python, C++ <br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Frameworks/Libraries:** Flutter, React, Node.js, Express.js <br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Tools:** Git, MongoDB, Firebase <br>
 
-<!--
-### 🌟 Featured Projects
-- [Project Name](Link) – Brief description of what it does and technologies used.
-- [Project Name](Link) – Brief description of what it does and technologies used.
--->
-
-### 📫 How to Reach Me
-&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](linkedin.com/in/rizarahim/) <br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Email](mailto:rizarahim2003@gmail.com) <br>
+### 📫 how to contact me ?
+&nbsp;&nbsp;&nbsp;&nbsp; [linkedIn](linkedin.com/in/rizarahim/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; [e-mail](mailto:rizarahim2003@gmail.com) <br>
 
 
